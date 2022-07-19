@@ -29,4 +29,3 @@ function clean() {
     document.getElementById("textarea1").style.textAlign="left";
     document.getElementById("textarea1").style.textTransform="none";
 }
-
